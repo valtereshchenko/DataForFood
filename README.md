@@ -15,3 +15,4 @@ Finally I have build the SVM regression model that predicts the nutriscore for t
 followed by the Random Forest Classifier that predicts then the corresponding label of the product (from A to E).
 
 
+Here is where you can find my final presentation of the project: https://my.readymag.com/edit/2018914/preview/
