@@ -4,7 +4,7 @@ Nowadays it is quite complicated to make healthy food choices. There are various
 In this case, I have decided to explore the score most of the 'healthy' apps are using - Nutriscore -
 that suggest on the scale from A to E how healthy of unhealthy the certian product is. 
 
-I have explored OpenFoodFacts database of products, scores those have to then build a model that wouls calculate the Nutriscore 
+I have explored OpenFoodFacts database of products & scores those have, to then build a model that wouls calculate the Nutriscore 
 for the product that are not yet in the database.
 
 I have used Tensorflow to build a model that would detect the nutritional label on the products' pictures. 
