@@ -4,4 +4,4 @@
 .ipynb_checkpoints/**
 files/*
 .nutrition_extractor/test_images/*
-nutrition_extractor/data/ctpn.pb
+
