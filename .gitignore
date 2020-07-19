@@ -1,5 +1,6 @@
 .nc
 .DS_store
 
-files/**
-nutrition_extractor/test_images/*
+.ipynb_checkpoints/**
+.files/**
+.nutrition_extractor/test_images/*
